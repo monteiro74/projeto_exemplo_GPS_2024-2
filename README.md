@@ -2,9 +2,14 @@
 página da disciplina eng. sw. trabalho
 
 
+
+---
 # 1. Descrição do sistema
 
 
+
+
+---
 # 2. Diagramas
 
 
@@ -13,3 +18,11 @@ página da disciplina eng. sw. trabalho
 
 ## 2.2. Diagrama de casos de uso
 
+
+```python
+print
+go
+stop
+if
+else
+```
