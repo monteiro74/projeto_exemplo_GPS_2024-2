@@ -19,10 +19,18 @@ página da disciplina eng. sw. trabalho
 ## 2.2. Diagrama de casos de uso
 
 
-```python
+```c++
 print
 go
 stop
 if
 else
+
 ```
+
+| Nome Pet | Raça |
+| -------  | ----|
+| Garfield  | Gato |
+| Milu     | Fox Terrier |
+| Laika | et |
+
