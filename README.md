@@ -86,6 +86,7 @@ Para o contexto de requisitos funcionais, crie uma tabela em markdown ampliando 
 -->
 
 ## 5.2. Não Funcionais
+
 <!---
 Contexto:
 1.
@@ -105,6 +106,8 @@ Para o contexto de requisitos não funcionais, crie uma tabela em markdown ampli
 <!---
 isto é um comentário !
 
+Diagrama de componentes
+
 -->
 
 # 7. Plano de desenvolvimento
@@ -113,11 +116,24 @@ isto é um comentário !
 isto é um comentário !
 -->
 
-## 7.1. Lista de recursos
+## 7.1. Lista de recursos tecnológicos
+
+1. acesso aos logs de firewall
+2. acesso à rede para analisar o tráfego
+3. 
 
 <!---
-isto é um comentário !
+
 -->
+
+## 7.2. Recursos humanos
+
+Marceneiro
+Programador
+Analista
+Gestor
+
+
 
 # 8. Orçamento e cronograma geral
 
@@ -195,19 +211,28 @@ colocar aqui o cronograma do project libre
 # 9. Testes
 
 <!---
-isto é um comentário !
+Como vai testar o sistema:
+onde vai testar
+quem vai testar
+com quais dados
+gerar dados artificialmente
 -->
 
 # 10. Qualidade
 
 <!---
-isto é um comentário !
+Aspectos relacionados com a qualidade:
+1. velocidade
+2. ver os requisitos não funcionais
 -->
 
 # 11. Implantação
 
 <!---
 isto é um comentário !
+
+
+
 -->
 
 # 12. Riscos e mitigações
