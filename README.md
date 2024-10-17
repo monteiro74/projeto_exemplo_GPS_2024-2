@@ -201,13 +201,14 @@ isto é um comentário !
 # 10. Qualidade
 
 <!---
-isto é um comentário !
+Descrever aspectos de qualidade do seu software
+
 -->
 
 # 11. Implantação
 
 <!---
-isto é um comentário !
+tipo SaaS
 -->
 
 # 12. Riscos e mitigações
@@ -216,10 +217,16 @@ isto é um comentário !
 isto é um comentário !
 -->
 
+| Riscos | Mitigações |
+|--------|------------|
+| 1.     |            |
+| 2.     |            |
+| 3.     |            |
+
 # 13. Cálculo de FPA
 
 <!---
-pelo menos 1 formulários, exemplo: tarefas do qdpm
+Pelo menos 1 formulários, exemplo: tarefas do qdpm
 -->
 
 
@@ -228,7 +235,7 @@ pelo menos 1 formulários, exemplo: tarefas do qdpm
 ## 14.1. Telas do sistema
 
 <!---
-isto é um comentário !
+Telas do qdpm
 -->
 
 []()
