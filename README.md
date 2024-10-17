@@ -3,6 +3,37 @@ página da disciplina eng. sw. trabalho
 
 ## Sistema para: Petshop
 
+
+
+- [monteiro\_engsw](#monteiro_engsw)
+  - [Sistema para: Petshop](#sistema-para-petshop)
+- [1. Introdução](#1-introdução)
+- [2. Objetivos e Metas](#2-objetivos-e-metas)
+- [3. Metodologia de desenvolvimento](#3-metodologia-de-desenvolvimento)
+- [4. Papeis e responsabilidades](#4-papeis-e-responsabilidades)
+- [5. Requisitos](#5-requisitos)
+  - [5.1. Funcionais](#51-funcionais)
+  - [5.2. Não Funcionais](#52-não-funcionais)
+- [6. Arquitetura e módulos](#6-arquitetura-e-módulos)
+- [7. Plano de desenvolvimento](#7-plano-de-desenvolvimento)
+  - [7.1. Lista de recursos](#71-lista-de-recursos)
+- [8. Orçamento e cronograma geral](#8-orçamento-e-cronograma-geral)
+  - [8.1. Orçamento](#81-orçamento)
+    - [1. Pessoal](#1-pessoal)
+    - [2. Material permanente](#2-material-permanente)
+    - [3. Material de consumo](#3-material-de-consumo)
+    - [4. Serviços de terceiro](#4-serviços-de-terceiro)
+  - [8.2. Cronograma geral](#82-cronograma-geral)
+- [9. Testes](#9-testes)
+- [10. Qualidade](#10-qualidade)
+- [11. Implantação](#11-implantação)
+- [12. Riscos e mitigações](#12-riscos-e-mitigações)
+- [13. Anexos](#13-anexos)
+
+
+
+
+
 # 1. Introdução
 
 <!---
@@ -71,6 +102,7 @@ Para o contexto de requisitos não funcionais, crie uma tabela em markdown ampli
 
 <!---
 isto é um comentário !
+
 -->
 
 # 7. Plano de desenvolvimento
@@ -150,7 +182,7 @@ isto é um comentário !
 
 
 
-## 8.2. Cronograma Geral de Execução da Pesquisa
+## 8.2. Cronograma geral
 
 <!---
 isto é um comentário !
