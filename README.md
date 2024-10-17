@@ -28,7 +28,9 @@ página da disciplina eng. sw. trabalho
 - [10. Qualidade](#10-qualidade)
 - [11. Implantação](#11-implantação)
 - [12. Riscos e mitigações](#12-riscos-e-mitigações)
-- [13. Anexos](#13-anexos)
+- [13. Cálculo de FPA](#13-cálculo-de-fpa)
+- [14. Anexos](#14-anexos)
+  - [14.1. Telas do sistema](#141-telas-do-sistema)
 
 
 
@@ -185,7 +187,7 @@ isto é um comentário !
 ## 8.2. Cronograma geral
 
 <!---
-isto é um comentário !
+colocar aqui o cronograma do project libre
 -->
 
 
@@ -214,12 +216,19 @@ isto é um comentário !
 isto é um comentário !
 -->
 
-# 13. Anexos
+# 13. Cálculo de FPA
+
+<!---
+pelo menos 1 formulários, exemplo: tarefas do qdpm
+-->
+
+
+# 14. Anexos
+
+## 14.1. Telas do sistema
 
 <!---
 isto é um comentário !
 -->
-
-[]()
 
 []()
