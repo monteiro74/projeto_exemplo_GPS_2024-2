@@ -44,6 +44,8 @@ Para o contexto acimar, escreva 3 parágrafos de introdução para um projeto de
 -->
 
 
+
+
 # 2. Objetivos e Metas
 
 <!---
@@ -238,4 +240,4 @@ Pelo menos 1 formulários, exemplo: tarefas do qdpm
 Telas do qdpm
 -->
 
-[]()
+
